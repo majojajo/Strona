@@ -1,0 +1,16 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(18,181,172,1) 25%, rgba(18,181,172,1) 75%, rgba(13,37,87,1) 100%);
+    
+    color: white;
+    text-align: center;
+    font-family: 'Roboto';
+}
+
+.Yes {
+font-size: 30px;
+
+}
+
+
+
